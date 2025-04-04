@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net8.0\Tic_Tac_Toe.exe
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net8.0\Tic_Tac_Toe.deps.json
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net8.0\Tic_Tac_Toe.runtimeconfig.json
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net8.0\Tic_Tac_Toe.dll
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\net8.0\Tic_Tac_Toe.pdb
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net8.0\Tic_Tac_Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net8.0\Tic_Tac_Toe.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net8.0\Tic_Tac_Toe.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net8.0\Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net8.0\Tic_Tac_Toe.dll
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net8.0\refint\Tic_Tac_Toe.dll
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net8.0\Tic_Tac_Toe.pdb
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net8.0\Tic_Tac_Toe.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\3_SEMESTRE\PROGRAMACION 2\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\net8.0\ref\Tic_Tac_Toe.dll
